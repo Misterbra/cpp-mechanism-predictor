@@ -1,0 +1,162 @@
+{
+  "timestamp": "20260116_202303",
+  "n_samples": 111,
+  "baseline": {
+    "n_features": 449,
+    "auc": 0.7858539765319426,
+    "auc_ci": [
+      0.6977571061741923,
+      0.8659158917329753
+    ],
+    "accuracy": 0.7387387387387387,
+    "mcc": 0.4742933106256612
+  },
+  "lasso": {
+    "n_features": 61,
+    "auc": 0.9716427640156454,
+    "features": [
+      "length",
+      "AAC_F",
+      "AAC_I",
+      "AAC_Q",
+      "DPC_AG",
+      "DPC_AH",
+      "DPC_AK",
+      "DPC_AQ",
+      "DPC_AV",
+      "DPC_CY",
+      "DPC_DA",
+      "DPC_DP",
+      "DPC_DT",
+      "DPC_FF",
+      "DPC_FK",
+      "DPC_FN",
+      "DPC_GD",
+      "DPC_GG",
+      "DPC_GH",
+      "DPC_GY",
+      "DPC_HI",
+      "DPC_HL",
+      "DPC_HM",
+      "DPC_IH",
+      "DPC_IV",
+      "DPC_KC",
+      "DPC_KT",
+      "DPC_LG",
+      "DPC_LI",
+      "DPC_LM",
+      "DPC_LR",
+      "DPC_ML",
+      "DPC_MV",
+      "DPC_NK",
+      "DPC_PI",
+      "DPC_PR",
+      "DPC_PW",
+      "DPC_QA",
+      "DPC_QG",
+      "DPC_RA",
+      "DPC_RK",
+      "DPC_RL",
+      "DPC_RM",
+      "DPC_RV",
+      "DPC_SH",
+      "DPC_SQ",
+      "DPC_SR",
+      "DPC_ST",
+      "DPC_VA",
+      "DPC_VD",
+      "DPC_VK",
+      "DPC_VL",
+      "DPC_VQ",
+      "DPC_VR",
+      "DPC_WR",
+      "DPC_WT",
+      "DPC_WV",
+      "DPC_YL",
+      "DPC_YT",
+      "PHY_hydrophobicity_mean",
+      "PHY_charge_mean"
+    ]
+  },
+  "rfe_best": {
+    "n_features": 20,
+    "auc": 0.9804432855280313,
+    "auc_ci": [
+      0.9594862840638299,
+      0.9959308731502111
+    ],
+    "features": [
+      "AAC_I",
+      "AAC_P",
+      "DPC_AK",
+      "DPC_AV",
+      "DPC_DT",
+      "DPC_EA",
+      "DPC_FF",
+      "DPC_FK",
+      "DPC_GG",
+      "DPC_GY",
+      "DPC_HL",
+      "DPC_KT",
+      "DPC_NA",
+      "DPC_PR",
+      "DPC_SI",
+      "DPC_VR",
+      "DPC_WL",
+      "DPC_WV",
+      "PHY_polarity_mean",
+      "PHY_pI_mean"
+    ]
+  },
+  "rfe_all": [
+    {
+      "auc": 0.9467079530638852,
+      "auc_ci_low": 0.9050257034632034,
+      "auc_ci_high": 0.9763071362824309,
+      "accuracy": 0.8378378378378378,
+      "mcc": 0.674380704041721,
+      "n_features": 10
+    },
+    {
+      "auc": 0.9804432855280313,
+      "auc_ci_low": 0.9594862840638299,
+      "auc_ci_high": 0.9959308731502111,
+      "accuracy": 0.918918918918919,
+      "mcc": 0.8415240556648675,
+      "n_features": 20
+    },
+    {
+      "auc": 0.9654498044328552,
+      "auc_ci_low": 0.9282870868998355,
+      "auc_ci_high": 0.9915604504191462,
+      "accuracy": 0.9009009009009009,
+      "mcc": 0.8013680150639709,
+      "n_features": 30
+    },
+    {
+      "auc": 0.9618644067796609,
+      "auc_ci_low": 0.9168830940548013,
+      "auc_ci_high": 0.9941565992147389,
+      "accuracy": 0.8918918918918919,
+      "mcc": 0.7829389885053097,
+      "n_features": 50
+    },
+    {
+      "auc": 0.9778357235984354,
+      "auc_ci_low": 0.9519603163846183,
+      "auc_ci_high": 0.9950987558766197,
+      "accuracy": 0.9099099099099099,
+      "mcc": 0.8192255136510673,
+      "n_features": 75
+    },
+    {
+      "auc": 0.9726205997392439,
+      "auc_ci_low": 0.9444363222871994,
+      "auc_ci_high": 0.9921311475409836,
+      "accuracy": 0.9009009009009009,
+      "mcc": 0.8009145206140729,
+      "n_features": 100
+    }
+  ],
+  "conclusion": "Feature selection does not significantly improve performance, suggesting regularized models already handle the high-dimensional feature space effectively."
+}

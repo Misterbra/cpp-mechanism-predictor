@@ -1,0 +1,43 @@
+{
+  "timestamp": "20260116_210710",
+  "original_dataset_size": 142,
+  "filtered_dataset_size": 111,
+  "similarity_threshold": 0.8,
+  "n_features": 449,
+  "validation_method": "nested_cv_5fold_bootstrap_1000",
+  "results": {
+    "Logistic Regression": {
+      "auc": 0.7858539765319426,
+      "auc_ci95_low": 0.6977571061741923,
+      "auc_ci95_high": 0.8659158917329753,
+      "accuracy": 0.7387387387387387,
+      "accuracy_ci95_low": 0.6486486486486487,
+      "accuracy_ci95_high": 0.8198198198198198,
+      "mcc": 0.4742933106256612,
+      "mcc_ci95_low": 0.3065499714990809,
+      "mcc_ci95_high": 0.6359864847975142
+    },
+    "SVM-Linear": {
+      "auc": 0.7529335071707952,
+      "auc_ci95_low": 0.659361558766324,
+      "auc_ci95_high": 0.8398310591293047,
+      "accuracy": 0.7297297297297297,
+      "accuracy_ci95_low": 0.6486486486486487,
+      "accuracy_ci95_high": 0.8108108108108109,
+      "mcc": 0.4562940138123967,
+      "mcc_ci95_low": 0.29613981996899486,
+      "mcc_ci95_high": 0.6270458902347071
+    },
+    "SVM-RBF": {
+      "auc": 0.7946544980443286,
+      "auc_ci95_low": 0.7113104878299035,
+      "auc_ci95_high": 0.87183449542261,
+      "accuracy": 0.7207207207207207,
+      "accuracy_ci95_low": 0.6306306306306306,
+      "accuracy_ci95_high": 0.8018018018018018,
+      "mcc": 0.44681255603964465,
+      "mcc_ci95_low": 0.2808585872578954,
+      "mcc_ci95_high": 0.5993325241076175
+    }
+  }
+}
