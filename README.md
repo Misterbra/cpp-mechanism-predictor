@@ -27,7 +27,7 @@ Existing tools (MLCPP 2.0, CPPred-RF) predict *uptake efficiency*, but **none pr
 ### Installation
 
 ```bash
-git clone https://github.com/[username]/cpp-mechanism-predictor.git
+git clone https://github.com/Misterbra/cpp-mechanism-predictor.git
 cd cpp-mechanism-predictor
 pip install -r requirements.txt
 ```
@@ -151,7 +151,7 @@ If you use this tool in your research, please cite:
   author = {NB},
   title = {CPP Mechanism Predictor: First ML model for predicting cell-penetrating peptide uptake mechanism},
   year = {2025},
-  url = {https://github.com/[username]/cpp-mechanism-predictor}
+  url = {https://github.com/Misterbra/cpp-mechanism-predictor}
 }
 ```
 
