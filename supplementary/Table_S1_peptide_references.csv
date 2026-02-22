@@ -141,3 +141,7 @@ ID,Name,Sequence,Length,Mechanism,Reference
 140,pAnt(43-68),RKRQIKIWFQNRRMKWKKAAQAAKKDP,27,Translocation,Derossi et al. 1994
 141,KALA-27,WEAKLAKALAKALAKHLAKALAKALKA,27,Endocytosis,Wyman et al. 1997
 142,E5-20,GLFEAIAEFIEGGWEGLIEG,20,Translocation,Wadia et al. 2004
+143,alphaR5W4,RRWWRRWWR,9,Endocytosis,Walrant et al. 2020
+144,(WH)5,WHWHWHWHWH,10,Translocation,Shirazi et al. 2018
+145,hPP10,KIPLPRFKLKCIFCKKRRKR,20,Endocytosis,Wang et al. 2016
+146,dNP2,CKIKKVKKKGRKKIKKVKKKGRK,23,Endocytosis,Lim et al. 2015

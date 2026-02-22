@@ -341,8 +341,8 @@ def main():
     st.markdown("""
     <div style='text-align: center; color: gray; font-size: 0.8em;'>
     <p><strong>CPP Mechanism Predictor</strong> | Author: NB</p>
-    <p>Model: SVM-RBF | AUC-ROC: 0.797 [95% CI: 0.714-0.878] | 465 features</p>
-    <p>Dataset: 142 CPPs with experimentally validated mechanisms</p>
+    <p>Model: SVM-RBF | AUC-ROC: 0.828 [95% CI: 0.754-0.891] | 465 features</p>
+    <p>Dataset: 146 CPPs with experimentally validated mechanisms</p>
     </div>
     """, unsafe_allow_html=True)
 
