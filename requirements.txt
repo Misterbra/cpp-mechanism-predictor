@@ -1,0 +1,22 @@
+# CPP Mechanism Predictor - Dependencies
+# Python 3.8+
+
+# Core
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Model persistence
+joblib>=1.1.0
+
+# Web application
+streamlit>=1.20.0
+
+# Optional: Protein Language Model embeddings
+# fair-esm>=2.0.0
+# torch>=1.9.0

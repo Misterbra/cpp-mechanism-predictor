@@ -1,0 +1,104 @@
+{
+  "n_families": 14,
+  "mean_accuracy": 0.5812641723356009,
+  "results": [
+    {
+      "family": "Oligoarginines",
+      "n": 8,
+      "acc": 1.0,
+      "auc": null,
+      "class": "Endocytosis"
+    },
+    {
+      "family": "TAT-derived",
+      "n": 9,
+      "acc": 0.2222222222222222,
+      "auc": null,
+      "class": "Endocytosis"
+    },
+    {
+      "family": "Penetratin-derived",
+      "n": 6,
+      "acc": 0.3333333333333333,
+      "auc": 0.19999999999999996,
+      "class": "mixed"
+    },
+    {
+      "family": "Transportan-derived",
+      "n": 5,
+      "acc": 0.0,
+      "auc": null,
+      "class": "Endocytosis"
+    },
+    {
+      "family": "Melittin-like",
+      "n": 6,
+      "acc": 1.0,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "Mastoparan-like",
+      "n": 4,
+      "acc": 0.0,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "GALA-family",
+      "n": 5,
+      "acc": 0.8,
+      "auc": 0.0,
+      "class": "mixed"
+    },
+    {
+      "family": "HA2-derived",
+      "n": 7,
+      "acc": 0.8571428571428571,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "Proline-rich",
+      "n": 10,
+      "acc": 0.7,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "DPV-family",
+      "n": 5,
+      "acc": 0.6,
+      "auc": null,
+      "class": "Endocytosis"
+    },
+    {
+      "family": "Amphipathic-helical",
+      "n": 8,
+      "acc": 0.875,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "WRAP/CADY",
+      "n": 4,
+      "acc": 0.0,
+      "auc": null,
+      "class": "Endocytosis"
+    },
+    {
+      "family": "Dermaseptins",
+      "n": 3,
+      "acc": 1.0,
+      "auc": null,
+      "class": "Translocation"
+    },
+    {
+      "family": "MAP-derived",
+      "n": 4,
+      "acc": 0.75,
+      "auc": 0.0,
+      "class": "mixed"
+    }
+  ]
+}

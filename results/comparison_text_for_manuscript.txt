@@ -1,0 +1,45 @@
+
+================================================================================
+TEXT FOR MANUSCRIPT - COMPARISON WITH EXISTING METHODS
+================================================================================
+
+2.X Comparison with Existing Tools
+
+Several computational tools have been developed for CPP prediction (Table X).
+MLCPP 2.0 [ref] and CPPred-RF [ref] predict both CPP classification (CPP vs
+non-CPP) and uptake efficiency (high vs low). SkipCPP-Pred [ref], CellPPD [ref],
+and other tools focus solely on binary CPP classification.
+
+Critically, NONE of these existing tools predict the uptake MECHANISM
+(endocytosis vs direct translocation). This represents a significant gap in
+the CPP prediction landscape, as the uptake mechanism has profound implications
+for drug delivery applications:
+
+- Endocytosis often leads to cargo entrapment in endosomes
+- Direct translocation provides immediate cytoplasmic access
+
+CPPMechPred addresses this gap by providing the first machine learning model
+specifically designed to predict uptake mechanism from sequence. Unlike existing
+tools that answer "Is this peptide a CPP?", CPPMechPred answers "HOW does this
+CPP enter cells?"
+
+It is important to note that CPPMechPred is complementary to, not competitive
+with, existing tools. Users would first use tools like MLCPP 2.0 to identify
+potential CPPs, then use CPPMechPred to predict their uptake mechanism.
+
+--------------------------------------------------------------------------------
+Table X. Comparison of CPP prediction tools
+--------------------------------------------------------------------------------
+Tool            | CPP Classification | Uptake Efficiency | Uptake Mechanism
+----------------|-------------------|-------------------|------------------
+MLCPP 2.0       | Yes               | Yes               | No
+CPPred-RF       | Yes               | Yes               | No
+SkipCPP-Pred    | Yes               | No                | No
+CellPPD         | Yes               | No                | No
+CPPpred         | Yes               | No                | No
+KELM-CPPpred    | Yes               | No                | No
+CPPMechPred     | No*               | No                | YES
+--------------------------------------------------------------------------------
+* CPPMechPred assumes input peptides are already known CPPs
+
+================================================================================

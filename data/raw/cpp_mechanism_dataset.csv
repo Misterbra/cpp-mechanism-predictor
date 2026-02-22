@@ -1,0 +1,143 @@
+name,sequence,mechanism,mechanism_label,evidence,length
+TAT(48-60),GRKKRRQRRRPPQ,endocytosis,0,"Wadia et al. 2004, Richard et al. 2003",13
+TAT(49-57),RKKRRQRRR,endocytosis,0,Futaki et al. 2001,9
+TAT-HA2,RRRQRRKKRGLFGAIAGFIENGWEGMIDG,endocytosis,0,Wadia et al. 2004,29
+Penetratin,RQIKIWFQNRRMKWKK,endocytosis,0,"Dupont et al. 2007, Jiao et al. 2009",16
+Penetratin-Arg,RQIRIWFQNRRMRWRR,endocytosis,0,Fischer et al. 2004,16
+R8,RRRRRRRR,endocytosis,0,Nakase et al. 2004,8
+R9,RRRRRRRRR,endocytosis,0,Futaki et al. 2001,9
+R10,RRRRRRRRRR,endocytosis,0,Mitchell et al. 2000,10
+R12,RRRRRRRRRRRR,endocytosis,0,Futaki et al. 2001,12
+Transportan,GWTLNSAGYLLGKINLKALAALAKKIL,endocytosis,0,Soomets et al. 2000,27
+TP10,AGYLLGKINLKALAALAKKIL,endocytosis,0,Soomets et al. 2000,21
+pVEC,LLIILRRRIRKQAHAHSK,endocytosis,0,Elmquist et al. 2001,18
+MAP,KLALKLALKALKAALKLA,endocytosis,0,Oehlke et al. 1998,18
+SynB1,RGGRLSYSRRRFSTSTGR,endocytosis,0,Rousselle et al. 2000,18
+SynB3,RRLSYSRRRF,endocytosis,0,Rousselle et al. 2000,10
+VP22,DAATATRGRSAASRPTERPRAPARSASRPRRPVE,endocytosis,0,Elliott & O'Hare 1997,34
+hCT(9-32),LGTYTQDFNKFHTFPQTAIGVGAP,endocytosis,0,Schmidt et al. 2010,24
+SAP,VRLPPPVRLPPPVRLPPP,endocytosis,0,Pujals et al. 2006,18
+SAP(E),VELPPPVELPPPVELPPP,endocytosis,0,Martin et al. 2011,18
+polyArg,RRRRRRR,endocytosis,0,Fuchs & Bhakdi 2006,7
+M918,MVTVLFRRLRIRRACGPPRVRV,endocytosis,0,El-Andaloussi et al. 2007,22
+CADY,GLWRALWRLLRSLWRLLWRA,endocytosis,0,Crombez et al. 2009,20
+MPG,GALFLGFLGAAGSTMGAWSQPKKKRKV,endocytosis,0,Simeoni et al. 2003,27
+Pep-1,KETWWETWWTEWSQPKKKRKV,endocytosis,0,Morris et al. 2001,21
+Buforin II,TRSSRAGLQFPVGRVHRLLRK,endocytosis,0,Takeshima et al. 2003,21
+PreS2,PLSSIFSRIGDP,endocytosis,0,Oess & Bhargava 2000,12
+pISL,RVIRVWFQNKRCKDKK,endocytosis,0,Gautam et al. 2012,16
+VT5,DPKGDPKGVTVTVTVTVTGKGDPKPD,endocytosis,0,Eiriksdottir et al. 2010,26
+GALA,WEAALAEALAEALAEHLAEALAEALEALAA,translocation,1,Parente et al. 1990,30
+KALA-30,WEAKLAKALAKALAKHLAKALAKALKACEA,translocation,1,Wyman et al. 1997,30
+EALA,AALAEALAEALAEALAEALAEALAEALAEA,translocation,1,Rittner et al. 2002,30
+JTS-1,GLFEALLELLESLWELLLEA,translocation,1,Gottschalk et al. 1996,20
+HELP,KLLKLLLKLWLKLLKLLL,translocation,1,Lundberg et al. 2002,18
+ppTG1,GLFKALLKLLKSLWKLLLKA,translocation,1,Rittner et al. 2002,20
+ppTG20,GLFRALLRLLRSLWRLLLRA,translocation,1,Rittner et al. 2002,20
+LAH4,KKALLALALHHLAHLALHLALALKKA,translocation,1,Kichler et al. 2003,26
+LAH4-L1,KKALLAHALHLLALLALHLAHALKKA,translocation,1,Kichler et al. 2006,26
+Melittin,GIGAVLKVLTTGLPALISWIKRKRQQ,translocation,1,Dempsey 1990,26
+Cecropin A,KWKLFKKIEKVGQNIRDGIIKAGPAVAVVGQATQIAK,translocation,1,Silvestro et al. 2000,37
+Magainin 2,GIGKFLHSAKKFGKAFVGEIMNS,translocation,1,Matsuzaki et al. 1996,23
+Mastoparan,INLKALAALAKKIL,translocation,1,Toke et al. 2004,14
+MastoparanX,INWKGIAAMAKKLL,translocation,1,Toke et al. 2004,14
+Protegrin-1,RGGRLCYCRRRFCVCVGR,translocation,1,Mangoni et al. 2004,18
+K-FGF,AAVALLPAVLLALLAP,translocation,1,Lin et al. 1995,16
+S413-PV,ALWKTLLKKVLKAPKKKRKV,translocation,1,Deshayes et al. 2005,20
+pHLIP,AAEQNPIYWARYADWLFTTPLLLLDLALLVDADEGT,translocation,1,Hunt et al. 1997,36
+Hel11-7,KLLKLLLKLWKKLLKLLK,translocation,1,Lundberg et al. 2002,18
+Bac7(1-35),RRIRPRPPRLPRPRPRPLPFPRPGPRPIPRPLP,translocation,1,Mattiuzzo et al. 2007,33
+PR-39,RRRPRPPYLPRPRPPPFFPPRLPPRIPPGFPPRFPPRFP,translocation,1,Boman et al. 1993,39
+Indolicidin,ILPWKWPWWPWRR,translocation,1,Subbalakshmi & Bhargava 1998,13
+Temporin L,FVQWFSKFLGRIL,translocation,1,Mangoni et al. 2004,13
+Dermaseptin S4,ALWMTLLKKVLKAAAKAALNAVLVGANA,translocation,1,Pouny et al. 1992,28
+Apidaecin,GNNRPVYIPQPRPPHPRI,translocation,1,Castle et al. 1999,18
+Drosocin,GKPRPYSPRPTSHPRPIRV,translocation,1,Otvos et al. 2000,19
+Pyrrhocoricin,VDKGSYLPRPTPPRPIYNRN,translocation,1,Kragol et al. 2001,20
+Tat-NLS,GRKKRRQRRRPPQPKKKRKV,endocytosis,0,literature,20
+R6,RRRRRR,endocytosis,0,literature,6
+R11,RRRRRRRRRRR,endocytosis,0,literature,11
+R15,RRRRRRRRRRRRRRR,endocytosis,0,literature,15
+K8,KKKKKKKK,endocytosis,0,literature,8
+K9,KKKKKKKKK,endocytosis,0,literature,9
+RW9,RRWWRRWRR,endocytosis,0,literature,9
+(RW)4,RWRWRWRW,endocytosis,0,literature,8
+(RW)5,RWRWRWRWRW,endocytosis,0,literature,10
+(KW)4,KWKWKWKW,endocytosis,0,literature,8
+NLS,PKKKRKV,endocytosis,0,literature,7
+SV40-NLS,PKKKRKVEDP,endocytosis,0,literature,10
+nucleoplasmin-NLS,KRPAATKKAGQAKKKK,endocytosis,0,literature,16
+PEP-1-cysteamine,KETWWETWWTEWSQPKKRKVC,translocation,1,literature,21
+Hel-11-7-1,KLLKLLLKLWKKLLKLLKC,translocation,1,literature,19
+PPTG1-cysteamine,GLFKALLKLLKSLWKLLLKAC,translocation,1,literature,21
+HA2-fusion,GLFGAIAGFIENGWEGMIDG,translocation,1,literature,20
+INF7,GLFEAIEGFIENGWEGMIDGWYG,translocation,1,literature,23
+E5,GLFEAIAEFIEGGWEGLIEGC,translocation,1,literature,21
+E5-TAT,GLFEAIAEFIEGGWEGLIEGCYGRKKRRQRRR,translocation,1,Wadia et al. 2004,32
+CM18,KWKLFKKIGAVLKVLTTG,translocation,1,literature,18
+Aurein-1.2,GLFDIIKKIAESF,translocation,1,literature,13
+Citropin-1.1,GLFDVIKKVASVIGGL,translocation,1,literature,16
+Maculatin-1.1,GLFGVLAKVAAHVVPAIAEHF,translocation,1,literature,21
+Caerin-1.1,GLLSVLGSVAKHVLPHVVPVIAEHL,translocation,1,literature,25
+LL-37,LLGDFFRKSKEKIGKEFKRIVQRIKDFLRNLVPRTES,translocation,1,literature,37
+BMAP-27,GRFKRFRKKFKKLFKKLSPVIPLLHLG,translocation,1,literature,27
+BMAP-28,GGLRSLGRKILRAWKKYGPIIVPIIRIG,translocation,1,literature,28
+TAT-PTD4,YARAAARQARA,endocytosis,0,Ho et al. 2001,11
+TAT(47-57),YGRKKRRQRRR,endocytosis,0,Vives et al. 1997,11
+rTAT,RRRQRRKKRGY,endocytosis,0,Wender et al. 2000,11
+TAT-DRBD,RKKRRQRRRYGRKKRRQRRR,endocytosis,0,Eguchi et al. 2009,20
+W/R-Pen,RRWRRWWRRWWRRWRR,endocytosis,0,Jobin et al. 2015,16
+Pen2W2F,RQIKIFFQNRRMKFKK,endocytosis,0,Christiaens et al. 2004,16
+Tat-R,GRRRRRRRRRPPQ,endocytosis,0,Futaki 2005,13
+sC18,GLRKRLRKFRNKIKEK,endocytosis,0,Neundorf et al. 2009,16
+PF14,AGYLLGKLLLAAAALLL,endocytosis,0,Ezzat et al. 2011,17
+NF51,AGYLLGINLKALAALAKKIL,endocytosis,0,Arukuusk et al. 2013,20
+NF55,AGYLLGKINLKPLAALAKKIL,endocytosis,0,Arukuusk et al. 2015,21
+CADY-K,GLWRALWRLLRSLWRLLWKA,endocytosis,0,Konate et al. 2016,20
+WRAP1,LLWRLWRLLWRLWRLL,endocytosis,0,Konate et al. 2019,16
+WRAP5,LLRLLRWWWRLLRLL,endocytosis,0,Konate et al. 2019,15
+DPV3,RKKRRRESRKKRRRES,endocytosis,0,de Coupade et al. 2005,16
+DPV6,GRPRESGKKRKRKRLKP,endocytosis,0,de Coupade et al. 2005,17
+DPV7,GKRKKKGKLGKKRDP,endocytosis,0,de Coupade et al. 2005,15
+DPV7b,GKRKKKGKLGKKRPRSR,endocytosis,0,de Coupade et al. 2005,17
+DPV1047,VKRGLKLRHVRPRVTRMDV,endocytosis,0,de Coupade et al. 2005,19
+MPG-alpha,GALFLAFLAAALSLMGLWSQPKKKRKV,endocytosis,0,Deshayes et al. 2004,27
+MPG-beta,GALFLGFLGAAGSTMGAWSQPKSKRKV,endocytosis,0,Deshayes et al. 2004,27
+KALA-27,WEAKLAKALAKALAKHLAKALAKALKA,endocytosis,0,Wyman et al. 1997,27
+C105Y,CSIPPEVKFNKPFVYLI,endocytosis,0,Rhee & Davis 2006,17
+Pep-7,SDLWEMMMVSLACQY,endocytosis,0,Gao et al. 2002,15
+YTA2,YTAIAWVKAFIRKLRK,endocytosis,0,Scheller et al. 1999,16
+YTA4,IAWVKAFIRKLRKGPLG,endocytosis,0,Scheller et al. 1999,17
+GALA-INF,WEAALAEALAEALAEHLAEALAEALEALA,translocation,1,Wharton et al. 1988,29
+diINF-7,GLFEAIEGFIENGWEGMIDGWYGGLFEAIEGFIENGWEGMIDGWYG,translocation,1,Plank et al. 1994,46
+E5-20,GLFEAIAEFIEGGWEGLIEG,translocation,1,Wadia et al. 2004,20
+E5CA-TAT,GLFEAIAEFIEGGWEGLIEGCA,translocation,1,Lee et al. 2010,22
+Buforin I,AGRGKQGGKVRAKAKTRSS,translocation,1,Park et al. 1996,19
+Parasin I,KGRGKQGGKVRAKAKTRSS,translocation,1,Park et al. 1998,19
+Pleurocidin,GWGSFFKKAAHVGKHVGKAALTHYL,translocation,1,Cole et al. 1997,25
+Dermaseptin B2,GLWSKIKEVGKEAAKAAAKAAGKAALGAVSEAV,translocation,1,Vanhoye et al. 2003,33
+Phylloseptin-1,FLSLIPHAINAVSAIAKHN,translocation,1,Leite et al. 2005,19
+Ranatuerin-2P,GLMDTVKNVAKNLAGHMLDKLKCKITGC,translocation,1,Goraya et al. 2000,28
+Mastoparan-7,INLKAKAALAKKLL,translocation,1,Toke et al. 2004,14
+Mastoparan-17,INLKAIAALAKKLL,translocation,1,Toke et al. 2004,14
+Anoplin,GLLKRIKTLL,translocation,1,Ifrah et al. 2005,10
+Crabrolin,FLPLILRKIVTAL,translocation,1,Krishnakumari & Nagaraj 1997,13
+Decoralin,SLLSLIRKLIT,translocation,1,Konno et al. 2007,11
+Eumenitin,LNLKGIFKKVASLLT,translocation,1,Konno et al. 2006,15
+KLA,KLAKKLAKLAKKLAKLAK,translocation,1,Javadpour et al. 1996,18
+MAP10,KLALKLALKALKAAL,translocation,1,Scheller et al. 1999,15
+MAP12,KLALKLALKALKAALK,translocation,1,Oehlke et al. 1998,16
+MAP17,KLALKALKALKALKAA,translocation,1,Scheller et al. 1999,16
+pHLIP-1,AEQNPIYWARYADWLFTTPLLLLDLALLV,translocation,1,Reshetnyak et al. 2006,29
+pHLIP-4,ACDDQNPWRAYLDLLFPTDTLLLDLLW,translocation,1,Weerakkody et al. 2013,27
+Kaposi-FGF,AAVLLPVLLAAP,translocation,1,Rojas et al. 1998,12
+HSV-VP22,NAATATRGRSAASRPTERPRAPARSAS,translocation,1,Elliott & O'Hare 1997,27
+PreS2-TLM,PLSSIFSRIGDPALN,translocation,1,Oess & Bhargava 2000,15
+Bac5,RFRPPIRRPPIRPPFYPPFRPPIRPPIFPPIRPPFRPPLGPFP,translocation,1,Gennaro et al. 1989,43
+Bac7(1-23),RRIRPRPPRLPRPRPRPLPFPRP,translocation,1,Benincasa et al. 2004,23
+PR-39(1-22),RRRPRPPYLPRPRPPPFFPPRL,translocation,1,Boman et al. 1993,22
+Oncocin,VDKPPYLPRPRPPRRIYNR,translocation,1,Knappe et al. 2010,19
+Metalnikowin I,VDKPDYRPRPRPPNM,translocation,1,Chernysh et al. 1996,15
+EB1,LIRLWSHLIHIWFQNRRLKWKKK,translocation,1,Lundberg et al. 2007,23
+PasR8,FFLIPKGRRRRRRRRR,translocation,1,Takayama et al. 2012,16
+pAnt(43-68),RKRQIKIWFQNRRMKWKKAAQAAKKDP,translocation,1,Derossi et al. 1994,27

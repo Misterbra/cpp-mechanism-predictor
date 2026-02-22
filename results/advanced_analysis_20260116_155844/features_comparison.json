@@ -1,0 +1,14 @@
+{
+  "classic_features": {
+    "n_features": 449,
+    "auc": 0.8338308457711442
+  },
+  "esm2_embeddings": {
+    "n_features": 320,
+    "auc": 0.8191044776119404
+  },
+  "combined": {
+    "n_features": 769,
+    "auc": 0.8300497512437811
+  }
+}

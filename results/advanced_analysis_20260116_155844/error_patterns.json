@@ -1,0 +1,12 @@
+{
+  "total_errors": 34,
+  "error_rate": 0.23943661971830985,
+  "false_endocytosis": 15,
+  "false_translocation": 19,
+  "avg_charge_errors": 3.4029411764705877,
+  "avg_charge_correct": 4.700925925925926,
+  "avg_hydrophobicity_errors": -0.3357409050401318,
+  "avg_hydrophobicity_correct": -0.8538465219991934,
+  "avg_length_errors": 21.529411764705884,
+  "avg_length_correct": 18.75
+}
